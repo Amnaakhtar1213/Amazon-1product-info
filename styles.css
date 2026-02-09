@@ -1,0 +1,50 @@
+.full {
+  background-color:rgb(201, 196, 196);
+  height:400px;
+  width:600px;
+  margin-left: 20px;
+  margin-top: 20px;
+  padding-top: 20px;
+  padding-left: 20px;
+}
+
+
+
+
+a {
+  color: green;
+}
+.para1 {
+  color: green;
+  font-size:1.5rem;
+}
+.cart {
+  background-color: rgb(255, 157, 0);
+  color:black;
+  height:40px;
+  width:120px;
+  border: 2px solid rgba(255, 191, 0, 0.753);
+  border-radius: 20px;
+  margin-right: 10px;
+  font-size:1rem;
+  transition: box-shadow 1s;
+
+}
+.buy {
+  background-color: yellow;
+  color: black;
+  height:35px;
+  width: 110px;
+  border: 2px solid yellow;
+  border-radius : 20px;
+  transition: box-shadow 1s;
+
+}
+.buy:hover {
+  cursor: pointer;
+  box-shadow: 10px 10px 20px black;
+}
+.cart:hover {
+  cursor: pointer;
+  box-shadow: 10px 10px 20px black;
+}
