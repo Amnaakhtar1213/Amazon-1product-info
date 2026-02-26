@@ -21,7 +21,9 @@ This is a simple HTML and CSS project that display amazon single product info wh
 
 ## How to Run
 
-1. Clone this repository:
-  ```bash
-git clone https://github.com/Amnaakhtar1213/Amazon-1product-info.git
+ Clone this repository:
+ 
+  [Click here to view on GitHub](https://github.com/Amnaakhtar1213/Amazon-1product-info)
 
+```bash
+git clone https://github.com/Amnaakhtar1213/Amazon-1product-info.git
