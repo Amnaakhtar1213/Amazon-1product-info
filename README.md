@@ -1,3 +1,4 @@
+
 ##  1 PRODUCT-INFO 👟
 
 This is a simple 1-product-info page. Its built with a simple **HTML**, **CSS** and **JS**. It has a product image and a price button, and button has a little bit of **JS** that work when we click it and after clicking it display a error message.
@@ -5,9 +6,6 @@ This is a simple 1-product-info page. Its built with a simple **HTML**, **CSS** 
 ---
 
 ## Features 🎇
-1. A button that display a message when we click it.
-
----
 
 ## Technology used 🛒
 
@@ -35,6 +33,6 @@ Here's take a quick preview yourself:
 
 -------------------------------
 
- ## Clone this repository
+## Clone this repository
 ```bash
 git clone https://github.com/Amnaakhtar1213/Amazon-1product-info.git

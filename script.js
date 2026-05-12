@@ -8,4 +8,5 @@ function purchase() {
   errorPara.textContent = "TRY AGAIN Something feels wrong!!!"
 
 }
+
 purchaseBtn.addEventListener("click", purchase );
