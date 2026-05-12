@@ -14,7 +14,6 @@ This is a simple 1-product-info page. Its built with a simple **HTML**, **CSS** 
 -  **HTML**               ->   for structuring
 -  **CSS**                  ->   for styling(flexbox)
 -  **JavaScript**               ->   for interaction and dynamic layout
-  
 
   --- 
 
@@ -32,11 +31,10 @@ This is a simple 1-product-info page. Its built with a simple **HTML**, **CSS** 
 ## LIVE DEMO 🌐
 
 Here's take a quick preview yourself:
-[Click here for live-demo]()
+[Click here for live-demo](https://amnaakhtar1213.github.io/Amazon-1product-info/)
 
 -------------------------------
 
- ## Clone this repository:
+ ## Clone this repository
 ```bash
 git clone https://github.com/Amnaakhtar1213/Amazon-1product-info.git
-
