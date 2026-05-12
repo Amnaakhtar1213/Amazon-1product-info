@@ -3,11 +3,13 @@
 
 This is a simple 1-product-info page. Its built with a simple **HTML**, **CSS** and **JS**. It has a product image and a price button, and button has a little bit of **JS** that work when we click it and after clicking it display a error message.
 
----
+---------------
 
 ## Features 🎇
 
 - Pressing button and display error message.
+
+-------------------
 
 ## Technology used 🛒
 
