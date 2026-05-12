@@ -1,29 +1,36 @@
-# Amazon single product info 
+##  1 PRODUCT-INFO
 
-
-This is a simple HTML and CSS project that display amazon single product info which includes product name, price, delivery schedule and it also has two buttons for interaction ,Buttons give a shadow effect when we hover on it.
-
----
-
-# Features
-- Product title
-- product price
-- Two buttons 
-
----
-## Technologies used
-
-- **HTML**    for structure
-- **CSS**     for styling
+This is a simple 1-product-info page. Its built with a simple **HTML**, **CSS** and **JS**. It has a product image and a price button, and button has a little bit of **JS** that work when we click it and after clickig it display a error message.
 
 ---
 
+## Features
+1. A button that display a message when we click it.
 
-## How to Run
+---
 
- Clone this repository:
- 
-  [Click here to view on GitHub](https://github.com/Amnaakhtar1213/Amazon-1product-info)
+## Technology used
 
+-  **HTML**               ->   for structuring
+-  **CSS**                  ->   for styling
+-  **JavaScript**               ->   for interaction and dynamic layout
+  
+
+  --- 
+
+  ## How to run 
+
+ ## SCREENSHOT 🖼️
+Here's the page look like:
+- [Click here for web-page screenshot](ss.png)
+
+---
+
+## LIVE DEMO 🌐
+[Click here for live-demo](https://amnaakhtar1213.github.io/Amazon-1product-info/)
+
+---
+
+## Clone this repository
 ```bash
 git clone https://github.com/Amnaakhtar1213/Amazon-1product-info.git
