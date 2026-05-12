@@ -7,6 +7,8 @@ This is a simple 1-product-info page. Its built with a simple **HTML**, **CSS** 
 
 ## Features 🎇
 
+- Pressing button and display error message.
+
 ## Technology used 🛒
 
 -  **HTML**               ->   for structuring
@@ -16,8 +18,6 @@ This is a simple 1-product-info page. Its built with a simple **HTML**, **CSS** 
   --- 
 
   ## How to run 🎇
-
-  --------------
 
  ## SCREENSHOT 🖼️
 
@@ -29,7 +29,7 @@ This is a simple 1-product-info page. Its built with a simple **HTML**, **CSS** 
 ## LIVE DEMO 🌐
 
 Here's take a quick preview yourself:
-[Click here for live-demo](https://amnaakhtar1213.github.io/Amazon-1product-info/)
+- [Click here for live-demo](https://amnaakhtar1213.github.io/Amazon-1product-info/)
 
 -------------------------------
 
